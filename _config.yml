@@ -1,5 +1,5 @@
-title: Generalized LOAM: LiDAR Odometry Estimation with Trainable Local Geometric Features
-# description: Project page of Generalized LOAM
+title: Generalized LOAM
+description: LiDAR Odometry Estimation with Trainable Local Geometric Features
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate

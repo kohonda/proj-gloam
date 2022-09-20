@@ -10,8 +10,7 @@ Experiments with the KITTI benchmark demonstrate that our proposed method reduce
 
 ## Video
 
-{% include youtube.html id="LgWX2sPZQsE" %}
-
+{% include youtube.html id="6ksAjTQ3fCY" %}
 
 ## Supplementally Results
 
