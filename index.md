@@ -14,7 +14,7 @@ Experiments with the KITTI benchmark demonstrate that our proposed method reduce
 
 ## Video
 
-{% include youtubePlayer.html id=page.LgWX2sPZQsE %}
+{% include youtube.html id="LgWX2sPZQsE" %}
 
 
 ## Supplementally Results
