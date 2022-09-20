@@ -1,7 +1,3 @@
----
-layout: default
-youtubeId: LgWX2sPZQsE
----
 
 ## Abstract
 
