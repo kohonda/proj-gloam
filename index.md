@@ -1,5 +1,6 @@
 ---
 layout: default
+youtubeId: LgWX2sPZQsE
 ---
 
 ## Abstract
@@ -13,8 +14,7 @@ Experiments with the KITTI benchmark demonstrate that our proposed method reduce
 
 ## Video
 
-
-<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/LgWX2sPZQsE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+{% include youtubePlayer.html id=page.LgWX2sPZQsE %}
 
 
 ## Supplementally Results
