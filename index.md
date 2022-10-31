@@ -1,3 +1,13 @@
+{: align="center"}
+**Kohei Honda (1), Kenji Koide (2), Masashi Yokozuka (2), Shuji Oishi (2), and Atuhiko Banno (2)**
+
+{: align="center"}
+**IEEE Robotics and Automation Letters, 2022**
+
+(1): Nagoya University
+(2): National Institute of Advanced Industrial Science and Technology
+
+This work will be presented at ICRA 2023
 
 ## Abstract
 
@@ -18,4 +28,4 @@ Experiments with the KITTI benchmark demonstrate that our proposed method reduce
 
 ## Links
 
-- Paper(WIP)
+- Paper in print
