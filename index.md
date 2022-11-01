@@ -28,5 +28,5 @@ Experiments with the KITTI benchmark demonstrate that our proposed method reduce
 
 ## Links
 
-- [Preprint paper](https://arxiv.org/pdf/2210.16510.pdf)
+- [Paper](https://arxiv.org/abs/2210.16510)
 - DOI (In print)
